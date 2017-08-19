@@ -1,11 +1,14 @@
 # Digit_recognizer
-Digit recognizer implementation with different activation functions and different parameter update techniques
 
-Steps to use design files:
+# Example implementation of Neural Network for Digit recognition
+
+Digit recognizer implementation with different activation functions and different parameter update techniques. This implementation do not use any libraries for bacward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, any comments or feedback are welcome!
+
+# Steps to use design files:
 
 step1: clone the git repository
 
-step2: lanuch python and then execute below commands 
+step2: lanuch python intrepretter and then execute the below commands 
 
         import mnist_loader
         training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
