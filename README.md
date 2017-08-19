@@ -2,7 +2,7 @@
 
 # Example implementation of Neural Network for Digit recognition
 
-Digit recognizer implementation with different activation functions and different parameter update techniques. This implementation do not use any libraries for bacward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, any comments or feedback are welcome!
+Digit recognizer implementation with different activation functions (sigmoid, ReLU and LeakyReLU) and different parameter update techniques (Vanilla, adagrad and momentum parameter update techniques). This implementation do not use any libraries for bacward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, so there might bugs! Any comments or suggestions are welcome!
 
 # Steps to use design files:
 
