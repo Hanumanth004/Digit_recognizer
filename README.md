@@ -10,4 +10,13 @@ step2: lanuch python and then execute below commands
         import mnist_loader
         training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
  
-step3: run 
+step3: exit out of the python intrepretter 
+
+step4: To run different network implemenation follow the below syntax
+
+       python <script_name.py>
+       
+       example:
+       
+       python digit_recog.py
+
