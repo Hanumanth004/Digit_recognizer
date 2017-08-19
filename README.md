@@ -20,10 +20,7 @@ step4: To run different network implemenation follow the below syntax
        
        python digit_recog.py
        
-       
-       
-       
-Note: 
-
-http://neuralnetworksanddeeplearning.com/chap1.html
+           
+Note: mnist_loader.py script is borrowed from the below tutorial. 
+      http://neuralnetworksanddeeplearning.com/chap1.html
 
