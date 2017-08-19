@@ -19,4 +19,11 @@ step4: To run different network implemenation follow the below syntax
        example:
        
        python digit_recog.py
+       
+       
+       
+       
+Note: 
+
+http://neuralnetworksanddeeplearning.com/chap1.html
 
