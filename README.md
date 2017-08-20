@@ -2,7 +2,7 @@
 
 # Example implementation of Neural Network for Digit recognition
 
-Digit recognizer implementation in python with different activation functions (sigmoid, ReLU, LeakyReLU and tanh) and parameter update techniques (Vanilla update, adagrad and momentum parameter update techniques). This implementation do not use any libraries for backward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, so there might be some bugs! Any comments or suggestions are welcome!
+Digit recognizer implementation in python with different activation functions (sigmoid, ReLU, LeakyReLU and tanh) and parameter update techniques (Vanilla update, adagrad and momentum parameter update techniques). This implementation do not use any libraries for backward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, so there might be some bugs! Any comments or suggestions in making the implementation better are welcome!
 
 # Steps to use design files:
 
