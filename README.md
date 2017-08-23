@@ -27,9 +27,14 @@ step4: To run different network implemenation follow the below syntax
        
            
 # Note: 
-### mnist_loader.py script is borrowed from the below tutorial http://neuralnetworksanddeeplearning.com/chap1.html
-### Implementation is done using Python 2.7.10 
-### Make sure the dependencies, you might get errors in case some of the required packages are not installed      
+
+## mnist_loader.py script is borrowed from the below tutorial 
+
+        http://neuralnetworksanddeeplearning.com/chap1.html
+        
+## Implementation is done using Python 2.7.10 
+
+## Make sure the dependencies, you might get errors in case some of the required packages are not installed      
     
     
     
