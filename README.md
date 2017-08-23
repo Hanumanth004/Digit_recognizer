@@ -7,6 +7,7 @@ Digit recognizer implementation in python with different activation functions (s
 # Steps to use design files:
 
 step1: clone the git repository
+
         git clone https://github.com/Hanumanth004/Digit_recognizer.git
 
 step2: lanuch python intrepretter and then execute the below commands 
